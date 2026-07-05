@@ -104,7 +104,7 @@ def collect_information():
 ╠╣   »Online Accounts:                                        
 ╠╣      - YouTube: {YouTube}                                  
 ╠╣      - Instagram: {Instagram}                              
-╠╣      - Discord: {Discord}                                  
+╠╣      - Discord: {edmond0184}                                  
 ╠╣      - Twitter: {Twitter}                                  
 ╠╣      - Facebook: {Facebook}    
 ╠╣
